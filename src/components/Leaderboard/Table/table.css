@@ -1,0 +1,21 @@
+.tbl01Container {
+  background-color: #eef0ff;
+  margin-top: 22px;
+  border-radius: 8px;
+  width: 280px;
+  min-height: 500px;
+}
+
+.tbl01Empty {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 12px;
+  justify-content: center;
+  height: 500px;
+  color: var(--subtext);
+}
+
+.tbl01EmptyImg {
+  height: 180px;
+}
