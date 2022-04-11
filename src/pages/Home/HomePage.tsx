@@ -10,7 +10,7 @@ const HomePage = () => {
   return (
     <div>
       <div className="hp01TitleContainer">
-        <div className="hp01Title">Tic-Tac-Troww</div>
+        <div className="hp01Title">Tic-Tac-Toe-AR</div>
         <div>Getting Bored? So am I :\</div>
       </div>
       <div className="hp01Container">
